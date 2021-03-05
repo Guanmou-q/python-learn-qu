@@ -1,4 +1,4 @@
-number = 1
+number = 2
 while number < 100:
     with open('1-99.txt', 'a+') as fp:
         fp.write(str(number) + '\n')
